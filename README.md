@@ -42,5 +42,11 @@ control + l
 
 ## Usage
 
-cp ~/.config/karabiner/karabiner.json ~/.config/karabiner/bak_karabiner.json
-cp karabiner.json ~/.config/karabiner/karabiner.json
+1. install karabiner
+
+2. move config
+
+	```
+	cp ~/.config/karabiner/karabiner.json ~/.config/karabiner/bak_karabiner.json
+	cp karabiner.json ~/.config/karabiner/karabiner.json
+	```
