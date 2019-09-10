@@ -16,6 +16,18 @@ backslash (\)
 right-command
 ```
 
+page_up
+
+```
+control + 9
+```
+
+page_down
+
+```
+control + 0
+```
+
 down
 
 ```
